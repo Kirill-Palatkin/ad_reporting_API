@@ -1,0 +1,4 @@
+date,channel,campaign_id,impressions,clicks,cost
+2025-08-01,Google,CAMPAIGN_1,1000,50,25
+2025-08-01,Facebook,CAMPAIGN_2,500,20,10
+2025-08-02,Google,CAMPAIGN_1,1100,55,27
