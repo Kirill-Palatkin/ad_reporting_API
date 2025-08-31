@@ -66,3 +66,6 @@ python -m pytest -q tests/test_ingest.py
 
 ### /aggregates
 python -m pytest -q tests/test_aggregates.py 
+
+### Запуск всех тестов
+python -m pytest tests/ -q
